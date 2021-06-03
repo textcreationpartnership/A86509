@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honest design: or, The true Commonwealths-man; offering a word in this juncture of time, in order to a settlement· Not unworthy the perusal of the General Council of the officers of the Army.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86509</idno><idno type="EEBO-CITATION">99862799</idno>
+  <idno type="VID">168562</idno>
+  <idno type="EEBO-PROQUEST">2240949818</idno>
+  
+            <idno type="STC">Wing H2582</idno>
+            <idno type="STC">Thomason E980_11</idno>
+            <idno type="STC">ESTC R202564</idno>
+            <idno type="PROQUEST">99862799</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862799e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168562)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honest design: or, The true Commonwealths-man; offering a word in this juncture of time, in order to a settlement· Not unworthy the perusal of the General Council of the officers of the Army.</title>
+               </titleStmt>
+               <extent>[2], 1 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for L. Chapman at the Crown in Popes-Head-Ally,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 6 misnumbered 1.</note>
+                  <note>Variant: p. 6 numbered correctly.</note>
+                  <note>Annotation on Thomason copy: "May 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168562:1"/>
+            <p>The Honest Design: OR, The true COMMONWEALTHS-MAN; Offering a Word in this Juncture of time, In dorder to a SETTLEMENT.</p>
+            <p>Not unworthy the perusal of the General Council of The OFFICERS of the ARMY.</p>
+            <q>
+               <bibl>PROV. 14.34.</bibl>
+               <p>Righteousness exalteth a nation: but sin in a reproach to any people.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. Chapman</hi> at the Crown in Popes-Head-Ally, 1659. <add>may 2<seg rend="sup">d</seg>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168562:2"/>
+            <pb n="1" facs="tcp:168562:2"/>
+            <head>THE HONEST DESIGNE.</head>
+            <p>PEace is the Daughter of War, cut out of her belly by the Sword: the Mother indeed is in<g ref="char:EOLhyphen"/>jurious and hateful, but the daughter is belo<g ref="char:EOLhyphen"/>ved; and may recompence these injuries, if we can but be as wise in using, as getting our Victories.</p>
+            <p>A settlement consists in three things; Religion, Laws, and Liberties.</p>
+            <p>For Religion, as Christians, we can be content to know our bounds, and submit to the Scriptures, if but rightly administred by moderate spirits. We hardly finde Religion a thing to be debated by the Sword, but by the Keyes; only for matter of Disci<g ref="char:EOLhyphen"/>pline, we conceive such an indifferency in it, that we shall give way to any, that will most pliably con<g ref="char:EOLhyphen"/>duce to our honest intents and the Publick safety; desiring truly to resent, that a medling about this, may have been the just forfeiture of our best hopes, and late advantages.</p>
+            <p>For matter of Laws, which should be rectified all to the good of the people, we profess that herein a<g ref="char:EOLhyphen"/>lone
+<pb n="2" facs="tcp:168562:3"/>lies the life and being of that Reformation, which can requite, and answer what the Sword hath done.</p>
+            <p>There is two parts of the Law; the Nomothetical part, which comprehends the Magistrate and all due justice; and this we solemnly honour, even for Con<g ref="char:EOLhyphen"/>science sake, <hi>Rom.</hi> 13. And the Eristical part, which is meerly a very trade, driven on for the maintenance of the Lawyer, and the number that depends upon him, who like those Priests rejected of the Lord, <hi>Hos.</hi> 4.8. do <hi>eat up</hi> (or live upon) <hi>the sins of the people.</hi> Now these Law-contentions are either in things of a permanent nature, as matters of right in all man<g ref="char:EOLhyphen"/>ner of possessions, which we conceive capable of an undeclinable, easie Rule, subject no more unto con<g ref="char:EOLhyphen"/>troversie: or in things of a contingent nature, as mat<g ref="char:EOLhyphen"/>ters of fact about words or actions; which being va<g ref="char:EOLhyphen"/>riable, and not to be pre-vided, must of necessity be left in a great part arbitrary.</p>
+            <p>For things permanent, as all matters of possession; This we judge, mainly worth the undertaking, that all men may enjoy their own alike, that there might be but one kind of <hi>meum &amp; tuum</hi> throughout the Land; without which, what are our Houses but as the brick and straw of <hi>Egypt?</hi> and what availeth it, to have Lands, though of inheritance (as many such Copy-holds there bee) when we must become slaves in the very buying, and holding of them? we resolve therefore, all tenures ought to be reduced to one, that which is freest, surest, and best for all parties. Let
+<pb n="3" facs="tcp:168562:3"/>our Possessions be our own, as the writings are our own, as our Goods, and all things else we have are our own. How is our Food and Raiment ours? do we hold our Cloaths in Soccage, and eat by Copy? Let us have propriety, and but one way in <hi>England,</hi> of having things honestly our own; and the upon a<g ref="char:EOLhyphen"/>ny dealing or making over House or Lands, let there be but certain appointed Courts for the registring all is done, and nothing valid, otherwise: certainly a very plain course (upon a few consideration and clauses that are due) might be taken, to end all Suits (were our heads one emptied of Law-quillets) and give us a <hi>quietus est</hi> in matters of possession for ever. Nay suppose all Purchases but a Parish-business. The first Church-Warden propounds, There is such a purpose of a bargain between <hi>A.</hi> and <hi>B. A.</hi> saies openly, I sell such a House or Land to <hi>B. B.</hi> answers, And I buy the same of <hi>A.</hi> Then suppose the se<g ref="char:EOLhyphen"/>cond Church-Warden reades the bargain briefly written, and says to both, Do you agree to this? both answer, VVe agree. Then let the Register pro<g ref="char:EOLhyphen"/>nounce the contract before the people, and we dare avouch, if the putting off the shoo only among the Jews in publick, was a right unquestionable, <hi>Ruth</hi> 4.7. the present living knowledge of each place, might decide all Cases in their respective bounds, and we should give the Lawyers leave to get our Wives, as soon as pick a flaw in such a title.</p>
+            <p>For things contingent, as all trespass or quarrels about words and actions. In every Shire there are
+<pb n="4" facs="tcp:168562:4"/>several divisions; in each of them, let there be yearly chosen by the people, certain persons, Elders, <hi>able men, such as fear God,</hi> (Exod. 18.21.) <hi>men of truth, ha<g ref="char:EOLhyphen"/>ting covetousness,</hi> for the patronage of justice. Let them have their monethly Sessions, and appoint o<g ref="char:EOLhyphen"/>ther meeting at their pleasure; whither, as they shall have power to call all complaints, and deter<g ref="char:EOLhyphen"/>mine them, as soon as they have heard both sides, without delay or charge; so all the honest Gentle<g ref="char:EOLhyphen"/>men that resort, shall be admitted into present coun<g ref="char:EOLhyphen"/>sel with them, that they may be ashamed to do in<g ref="char:EOLhyphen"/>justice in the face of so many, and train up others by their righteousness. We think it fit there be the greatest liberty allowed them (that is safe) in their judgements, that they may not do us right only by book and roat, but by an acquired habit, and heart intent on equity. Especially this we account most necessary, that they may use their wisedom wholly, in appropriating penalties to present facts, limited only in the general heads (that they may not exceed) to proportionable retaliations: that so they may alwaies study to approve themselves more and more worthy, in such new examples and pieces of e<g ref="char:EOLhyphen"/>quity, that the rarity may bring the ingenious spirits together to exercise their Counsels, and make them famous in the Roll of the Peoples honours, in whose free Votes and successive elections, should lye the hopes of all advancement. This is a way not only to keep the people in unity and peace, but to imploy our Nobler families (now idle) in the study and e<g ref="char:EOLhyphen"/>mulation,
+<pb n="5" facs="tcp:168562:4"/>who shall be most righteously active and excogitative for their Country. And herein, let there be no Appeal admitted, if once a Cause is adjudged, but only to the Parliament, where we shall prefer the worthy (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with <hi>Sabinus</hi>) train'd up by this inferiour Judicature, and strictly cal to account those that dare once to be corrupted; accounting no baseness like the villany of unrighteousness; and no honour like that which makes men Gods in office, whilst we seek to imitate heaven in uprightness, and be the first that bring in our Kingdom, to become one of the Kingdoms of the Lord Jesus.</p>
+            <p>For our Liberties. There have been several Peti<g ref="char:EOLhyphen"/>tions and overtures of late years about the removing Impropriations, the setling of the Ministry out of Suits, and a multitude of the like, which we account are to be collected by such as God shall make wise-hearted to the common good, and then we to stand by them; earnestly wishing such a self-denying Re<g ref="char:EOLhyphen"/>presentative, who being well known in the perplexi<g ref="char:EOLhyphen"/>ties and corruptions of our Law, and having some feeling of our inferiour burdens, may be quite out of love with the same, and so be able to sift away the Levellers bran and dross from those finer parts of righteousness, in whose establishment we see but little danger, and certain happiness.</p>
+            <p>This is the sum of that <hi>Good Old Cause (populi salus &amp; utilitas)</hi> which we desire may be (a little more rightly) set again afoot amongst us; and it may at last happily finde acceptance with good men:
+<pb n="6" facs="tcp:168562:5"/>Whereof we may however, we think, take up no other then the words of <hi>Achish</hi> to <hi>David: Surely, as the Lord liveth, thou hast been upright, and thy going out and comming in with us in the host, is good in my sight: for I have not found evil in thee, since the day of thy coming in to me; nevertheless the lords favour thee not.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <p>If there be any profession that makes others poor to en<g ref="char:EOLhyphen"/>rich it self, such a one sutes not a Commonwealth.</p>
+                  <bibl>Oliver Cromwel.</bibl>
+               </q>
+               <q>
+                  <p>The happy estate of a well-ordered Commonwealth, is, where all other things being equally common, prece<g ref="char:EOLhyphen"/>dency is measured, and preferment suted according to vertue and desert, and the contrary according to vice.</p>
+                  <bibl>Anacharsis.</bibl>
+               </q>
+               <q>
+                  <p>Righteousness exalteth a nation.</p>
+                  <bibl>Solomon.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
